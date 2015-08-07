@@ -1,4 +1,4 @@
-MD5Sum: fb2ed12f43a7c30be6082d4fbb0b7a05
+MD5Sum: 3e8998114d0d8899162c054db8631f88
 Maintainer: Brian
 Name: uniOS Minimal Icons
 Package: noshery.github.io.uniOS
@@ -7,6 +7,6 @@ Author: noshery
 Filename: debs/uniOS.deb
 Version: 1.2
 Architecture: iphoneos-arm
-Size: 304084
+Size: 302928
 Description: Minimalist white icons installed through Winterboard. (Requires IconBundles tweak & CustomClock tweak)
 Sponsor: noshery
