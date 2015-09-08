@@ -1,0 +1,4 @@
+cd /Users/mac/Desktop/
+dpkg-deb -b MyProgram2
+cd /Users/mac/Desktop/Github/noshery.github.io/
+gzip -f Packages
