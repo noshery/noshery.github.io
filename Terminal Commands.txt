@@ -1,9 +1,7 @@
-cd /Users/mac/Desktop/
-dpkg-deb -b MyProgram2
-
-cd /Users/mac/Desktop/Github/noshery.github.io/
-gzip -f Packages
 
 cd /Users/mac/Desktop/Github/noshery.github.io/debs/
 dpkg-deb -b uniOS
 dpkg-deb -b KeyIcons
+
+cd /Users/mac/Desktop/Github/noshery.github.io/
+gzip -f Packages

@@ -1,7 +1,7 @@
 Maintainer: Brian
 Name: Key Icons
 Package: noshery.github.io.KeyIcons
-Version: 1.0.2
+Version: 1.0.3
 Architecture: iphoneos-arm
 Description: B&W keyboard key styled icons installed through Winterboard. Theme requires IconBundles tweak. Bigify tweak recommended to change icon size and opacity.
 Section: Themes
