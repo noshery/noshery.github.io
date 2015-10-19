@@ -11,15 +11,15 @@ Size: 651048
 Description: Minimalist white icons installed through Winterboard. Theme requires IconBundles tweak. Bigify tweak recommended to change icon size and opacity.
 Sponsor: noshery
 
-MD5Sum: a66e33928dda3191661f75783fe2660a
+MD5Sum: 28ea182ac7fafed1f197c3f556cb3959
 Maintainer: Brian
 Name: Key Icons
 Package: noshery.github.io.KeyIcons
 Section: Themes
 Author: noshery
 Filename: debs/KeyIcons.deb
-Version: 1.0.4
+Version: 1.0.5
 Architecture: iphoneos-arm
-Size: 212324
+Size: 212336
 Description: B&W keyboard key styled icons installed through Winterboard. Theme requires IconBundles tweak. Bigify tweak recommended to change icon size and opacity.
 Sponsor: noshery
