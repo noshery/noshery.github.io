@@ -30,7 +30,7 @@ Name: Mixed Icons
 Package: noshery.github.io.MixIcons
 Section: Themes
 Author: noshery
-Filename: debs/KeyIcons.deb
+Filename: debs/MixIcons.deb
 Version: 1.0
 Architecture: iphoneos-arm
 Size: 325472
