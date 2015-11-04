@@ -24,15 +24,15 @@ Size: 216116
 Description: B&W keyboard key styled icons installed through Winterboard. Theme requires IconBundles tweak. Bigify tweak recommended to change icon size and opacity.
 Sponsor: noshery
 
-MD5Sum: f88e3696aec8f128f32e1798652186fc
+MD5Sum: f670487da040c4afb561ad25cde0eccc
 Maintainer: Brian
-Name: Mixed Icons
+Name: Mixed Icon Sets
 Package: noshery.github.io.MixIcons
 Section: Themes
 Author: noshery
 Filename: debs/MixIcons.deb
 Version: 1.0
 Architecture: iphoneos-arm
-Size: 325472
+Size: 324898
 Description: Variety of minimal icon sets installed through Winterboard. Theme requires IconBundles tweak. Bigify tweak recommended to change icon size and opacity.
 Sponsor: noshery
