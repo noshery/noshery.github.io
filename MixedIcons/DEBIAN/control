@@ -1,0 +1,8 @@
+Maintainer: Brian
+Name: Mixed Icons
+Package: noshery.github.io.MixedIcons
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Background variations using minimally styled icons. Theme requires IconBundles tweak. Bigify tweak recommended to change icon size and opacity.
+Section: Themes
+Sponsor: noshery

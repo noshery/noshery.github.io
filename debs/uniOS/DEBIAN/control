@@ -1,7 +1,7 @@
 Maintainer: Brian
 Name: uniOS Minimal Icons
 Package: noshery.github.io.uniOS
-Version: 1.3.3
+Version: 1.4
 Architecture: iphoneos-arm
 Description: Minimalist white icons installed through Winterboard. Theme requires IconBundles tweak. Bigify tweak recommended to change icon size and opacity.
 Section: Themes
