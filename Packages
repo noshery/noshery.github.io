@@ -1,26 +1,26 @@
-MD5Sum: e3f6bae99bb20d79e833c59a4bbb1ae4
+MD5Sum: bc16117bb97e2ee7d1c4ddead94c1468
 Maintainer: Brian
 Name: uniOS Minimal Icons
 Package: noshery.github.io.uniOS
 Section: Themes
 Author: noshery
 Filename: debs/uniOS.deb
-Version: 1.4
+Version: 1.5
 Architecture: iphoneos-arm
-Size: 957696
+Size: 997226
 Description: Minimalist white icons installed through Winterboard. Theme requires IconBundles tweak. Bigify tweak recommended to change icon size and opacity.
 Sponsor: noshery
 
-MD5Sum: a941601bf7cfca4572f00d4986a84494
+MD5Sum: 8dde5da91dfb0a389d36ae32235e27a9
 Maintainer: Brian
 Name: Key Icons
 Package: noshery.github.io.KeyIcons
 Section: Themes
 Author: noshery
 Filename: debs/KeyIcons.deb
-Version: 1.0.6
+Version: 1.0.7
 Architecture: iphoneos-arm
-Size: 216116
+Size: 229724
 Description: B&W keyboard key styled icons installed through Winterboard. Theme requires IconBundles tweak. Bigify tweak recommended to change icon size and opacity.
 Sponsor: noshery
 
