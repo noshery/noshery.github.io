@@ -1,0 +1,8 @@
+Maintainer: Brian
+Name: uniOS 2
+Package: noshery.github.io.uniOS2
+Version: 1.0
+Architecture: iphoneos-arm
+Description: White, shaded icons installed through Winterboard. Theme requires IconBundles tweak. Bigify tweak recommended to change icon size and opacity.
+Section: Themes
+Sponsor: noshery
