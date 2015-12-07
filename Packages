@@ -37,7 +37,7 @@ Size: 328816
 Description: Variety of minimal icon sets installed through Winterboard. Theme requires IconBundles tweak. Bigify tweak recommended to change icon size and opacity.
 Sponsor: noshery
 
-MD5Sum: 4a596403871bd1b0402ddd73216761df
+MD5Sum: ecde2a0fc5037b2e3e9be85c9cf8ac44
 Maintainer: Brian
 Name: uniOS 2
 Package: noshery.github.io.uniOS2
@@ -46,6 +46,19 @@ Author: noshery
 Filename: debs/uniOS2.deb
 Version: 1.0.4
 Architecture: iphoneos-arm
-Size: 647190
+Size: 646228
+Description: White, shaded icons installed through Winterboard. Theme requires IconBundles tweak. Bigify tweak recommended to change icon size and opacity.
+Sponsor: noshery
+
+MD5Sum: 6481a408b13e02f7ae39f5070077e160
+Maintainer: Brian
+Name: Text Icons
+Package: noshery.github.io.TextIcons
+Section: Themes
+Author: noshery
+Filename: debs/TextIcons.deb
+Version: 1.0
+Architecture: iphoneos-arm
+Size: 101734
 Description: White, shaded icons installed through Winterboard. Theme requires IconBundles tweak. Bigify tweak recommended to change icon size and opacity.
 Sponsor: noshery

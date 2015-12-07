@@ -1,0 +1,8 @@
+Maintainer: Brian
+Name: Key Icons
+Package: noshery.github.io.KeyIcons
+Version: 1.0
+Architecture: iphoneos-arm
+Description: 20 icons in Helevetica Neue. Theme requires IconBundles tweak. Bigify tweak recommended to change icon size and opacity.
+Section: Themes
+Sponsor: noshery
