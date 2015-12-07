@@ -1,6 +1,6 @@
 
 cd /Users/mac/Desktop/Github/noshery.github.io/debs/
-dpkg-deb -b uniOS
+dpkg-deb -b uniOS2
 dpkg-deb -b KeyIcons
 dpkg-deb -b MixIcons
 
