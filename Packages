@@ -50,7 +50,7 @@ Size: 646228
 Description: White, shaded icons installed through Winterboard. Theme requires IconBundles tweak. Bigify tweak recommended to change icon size and opacity.
 Sponsor: noshery
 
-MD5Sum: 37be3632ddfa4248c012b36bcb5e57f7
+MD5Sum: f377251e09164766ae52326872b5c296
 Maintainer: Brian
 Name: Text Icons
 Package: noshery.github.io.TextIcons
@@ -59,6 +59,6 @@ Author: noshery
 Filename: debs/TextIcons.deb
 Version: 1.0.1
 Architecture: iphoneos-arm
-Size: 101702
+Size: 99738
 Description: 20 icons in Helevetica Neue. A-M right aligned, N-Z left aligned
 Sponsor: noshery
