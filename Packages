@@ -1,13 +1,13 @@
-MD5Sum: 051a6362add8c19b379131c577733c7a
+MD5Sum: e5d0311811d81c80b2fea934bec4353c
 Maintainer: Brian
 Name: uniOS Minimal Icons
 Package: noshery.github.io.uniOS
 Section: Themes
 Author: noshery
 Filename: debs/uniOS.deb
-Version: 1.6
+Version: 1.6.1
 Architecture: iphoneos-arm
-Size: 1003720
+Size: 1018642
 Description: Minimalist white icons installed through Winterboard. Theme requires IconBundles tweak. Bigify tweak recommended to change icon size and opacity.
 Sponsor: noshery
 
@@ -50,15 +50,15 @@ Size: 646228
 Description: White, shaded icons installed through Winterboard. Theme requires IconBundles tweak. Bigify tweak recommended to change icon size and opacity.
 Sponsor: noshery
 
-MD5Sum: a3642bcc4efd8133c620e72727e932eb
+MD5Sum: c4433beebe71670107711c8167d4c0e8
 Maintainer: Brian
 Name: Text Icons
 Package: noshery.github.io.TextIcons
 Section: Themes
 Author: noshery
 Filename: debs/TextIcons.deb
-Version: 1.0.2
+Version: 1.1
 Architecture: iphoneos-arm
-Size: 93984
+Size: 294660
 Description: 20 icons in Helevetica Neue. A-M right aligned, N-Z left aligned
 Sponsor: noshery

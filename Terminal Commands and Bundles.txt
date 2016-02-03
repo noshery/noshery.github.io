@@ -1,8 +1,17 @@
 
 cd /Users/mac/Desktop/Github/noshery.github.io/debs/
-dpkg-deb -b uniOS2
+dpkg-deb -b uniOS
 dpkg-deb -b KeyIcons
 dpkg-deb -b MixIcons
+dpkg-deb -b TextIcons
 
 cd /Users/mac/Desktop/Github/noshery.github.io/
 gzip -f Packages
+
+
+
+IconBundles
+
+com.burbn.instagram
+com.tigisoftware.Filza
+com.baslas.tubex
