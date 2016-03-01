@@ -1,7 +1,7 @@
 Maintainer: Brian
 Name: Text Icons
 Package: noshery.github.io.TextIcons
-Version: 1.2
+Version: 1.3
 Architecture: iphoneos-arm
 Description: Icons in Helevetica Neue & key backed. A-M left aligned, N-Z right aligned
 Section: Themes
